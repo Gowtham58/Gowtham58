@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
 <h3 align="center">A Passionate Machine Learning Student</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I'm a **Deep Learning** Enthusiast
 
-- 📫 How to reach me **gowtham.m5858@gmail.com**
+- 📫 Reach me At **gowtham.m5858@gmail.com**
 
 
 <p align="left">
