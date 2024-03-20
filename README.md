@@ -7,7 +7,7 @@
 
 - End to End Deep Learning Applications that I have built:
   - Video Backgroud Remover Green Screen: Removes Background from a Video and Adds Green Screen to it.
-  - Syllabus ChatBOT: A ChatBOT that can answer any questions related to the Anna University Regulation - 2017 and Syllabus of the Departments of CSE and AI&DS
+  - Syllabus ChatBOT: A ChatBOT that can answer any questions related to the Anna University Regulation - 2017 and Syllabus of the Departments of CSE and AI&DS using LLM and RAG
   - Mushroom Classifier: Web Application for the classification of mushroom belonging to 3 categories Boletus, Lactarius, Russula using CNN.
 
 
