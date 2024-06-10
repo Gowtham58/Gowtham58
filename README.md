@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
-<h3 align="center">A Passionate Machine Learning Student</h3>
+<h3 align="center">A Passionate AI Graduate</h3>
 
 - 🌱 **Artificial Intelligence and Data Science** Engineering Graduate
 
