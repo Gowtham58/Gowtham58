@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
 <h3 align="center">A Passionate Machine Learning Student</h3>
 
-- 🌱 I'm a Final Year **Artificial Intelligence and Data Science** Engineering Student
+- 🌱 **Artificial Intelligence and Data Science** Engineering Graduate
 
 - 📫 Reach me At **gowtham.m5858@gmail.com**
 
