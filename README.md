@@ -6,9 +6,9 @@
 - 📫 Reach me At **gowtham.m5858@gmail.com**
 
 - End to End Deep Learning Applications that I have built:
-  - Video Backgroud Remover Green Screen: Removes Background from a Video and Adds Green Screen to it.
-  - Syllabus ChatBOT: A ChatBOT that can answer any questions related to the Anna University Regulation - 2017 and Syllabus of the Departments of CSE and AI&DS using LLM and RAG
+  - Syllabus ChatBOT: An application framework that leverages the power of Large Language Models (LLM) and the Active Retrieval Augmented Generation (RAG) method for users to access Government scheme-related details effortlessly.
   - Mushroom Classifier: Web Application for the classification of mushroom belonging to 3 categories Boletus, Lactarius, Russula using CNN.
+  - Video Backgroud Remover Green Screen: Removes Background from a Video and Adds Green Screen to it.
 
 
 <p align="left">
