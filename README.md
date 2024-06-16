@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Gowtham</h1>
-<h3 align="center">A Passionate AI Graduate</h3>
+<h1 align="center">Gowtham M</h1>
+<h3 align="center">A Passionate AI Enthusiast</h3>
 
-- 🌱 **Artificial Intelligence and Data Science** Engineering Graduate
+- **Artificial Intelligence and Data Science** Engineering Graduate
 
-- 📫 Reach me At **gowtham.m5858@gmail.com** or **https://www.linkedin.com/in/gowtham58/**
-
-- End to End Deep Learning Applications that I have built:
+- End to End Deep Learning/LLM Applications that I have built:
   - Multilabel Classifier for Injury using BERT: Tool to classify the Cause and Body Part from the Description of an Injury using the BERT model.   
   - HelpBOT using LLM and RAG: An application framework that leverages the power of Large Language Models (LLM) and the Active Retrieval Augmented Generation (RAG) method for users to access Government scheme-related details effortlessly.
   - Mushroom Classifier using MobileNetV3: Application for the classification of mushroom belonging to 3 categories Boletus, Lactarius, Russula using MobileNetV3.
   - Video Backgroud Remover Green Screen using OpenCV: Removes Background from a Video and Adds Green Screen to it.
-
+  - Reach me At **gowtham.m5858@gmail.com** or **https://www.linkedin.com/in/gowtham58/**
 
 <p align="left">
 </p>
