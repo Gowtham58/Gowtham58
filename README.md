@@ -1,5 +1,5 @@
 <h1 align="center">Gowtham M</h1>
-<h3 align="center">A Passionate AI Enthusiast</h3>
+<h3 align="center">A Passionate AI Fellow</h3>
 
 - **Artificial Intelligence and Data Science** Engineering Graduate
 
