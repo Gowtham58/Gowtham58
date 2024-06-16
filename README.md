@@ -6,9 +6,10 @@
 - 📫 Reach me At **gowtham.m5858@gmail.com**
 
 - End to End Deep Learning Applications that I have built:
-  - Syllabus ChatBOT: An application framework that leverages the power of Large Language Models (LLM) and the Active Retrieval Augmented Generation (RAG) method for users to access Government scheme-related details effortlessly.
-  - Mushroom Classifier: Web Application for the classification of mushroom belonging to 3 categories Boletus, Lactarius, Russula using CNN.
-  - Video Backgroud Remover Green Screen: Removes Background from a Video and Adds Green Screen to it.
+  - Multilabel Classifier for Injury using BERT:   
+  - HelpBOT using LLM and RAG: An application framework that leverages the power of Large Language Models (LLM) and the Active Retrieval Augmented Generation (RAG) method for users to access Government scheme-related details effortlessly.
+  - Mushroom Classifier using MobileNetV3: Application for the classification of mushroom belonging to 3 categories Boletus, Lactarius, Russula using MobileNetV3.
+  - Video Backgroud Remover Green Screen using OpenCV: Removes Background from a Video and Adds Green Screen to it.
 
 
 <p align="left">
