@@ -3,7 +3,7 @@
 
 - 🌱 **Artificial Intelligence and Data Science** Engineering Graduate
 
-- 📫 Reach me At **gowtham.m5858@gmail.com**
+- 📫 Reach me At **gowtham.m5858@gmail.com** or **https://www.linkedin.com/in/gowtham58/**
 
 - End to End Deep Learning Applications that I have built:
   - Multilabel Classifier for Injury using BERT:   
